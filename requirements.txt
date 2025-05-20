@@ -1,6 +1,6 @@
 streamlit
 streamlit-folium
 folium
-pandas
 plotly
 koreanize-matplotly
+y-finance
