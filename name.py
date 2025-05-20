@@ -3,8 +3,8 @@ import pandas as pd
 import plotly.express as px
 
 # 파일 경로
-FILE_TOTAL = "202504_202504_\u110c\u1165\u11bc\u3139\u1167\u11bd\u1107\u1167\u11af\u110b\u1175\u11bd\u110b\u116e\u1112\u1167\u11bc_\u110b\u116f\u11af\u3131\u1161\u11ab_\u1102\u1161\u11b7\u1102\u1167\u1112\u1161\u11b9\u3131\u1166.csv"
-FILE_GENDER = "202504_202504_\u110c\u1165\u11bc\u3139\u1167\u11bd\u1107\u1167\u11af\u110b\u1175\u11bd\u110b\u116e\u1112\u1167\u11bc_\u110b\u116f\u11af\u3131\u1161\u11ab_\u1102\u1161\u11b7\u1102\u1167\u1111\u116e\u11ab\u3139\u1165.csv"
+FILE_TOTAL = "202504_202504_연령별인구현황_월간_남녀분리.csv"
+FILE_GENDER = "202504_202504_연령별인구현황_월간_남녀합계.csv"
 
 # 데이터 불러오기 @st.cache_data로 캐싱
 @st.cache_data
